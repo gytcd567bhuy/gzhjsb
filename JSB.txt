@@ -1,7 +1,0 @@
-﻿vless://ed896094-b11a-4be3-9374-145994b217bd@141.101.123.21:443?type=ws&security=tls&path=%2Fvlcore22&host&sni=2655dbef.kkft.pages.dev&alpn=#JSB-1
-vless://ed896094-b11a-4be3-9374-145994b217bd@141.101.123.21:443?type=ws&security=tls&path=%2Fvlcore22&host&sni=63be88be.vvfy.pages.dev&alpn=#JSB-2
-vless://ed896094-b11a-4be3-9374-145994b217bd@141.101.123.21:443?type=ws&security=tls&path=%2Fvlcore22&host&sni=f1ac9454.wgrt.pages.dev&alpn=#JSB-3
-vless://ed896094-b11a-4be3-9374-145994b217bd@141.101.123.21:443?type=ws&security=tls&path=%2Fvlcore22&host&sni=fc3ca24b.grur.pages.dev&alpn=#JSB-4
-vless://1778720d-0510-4f91-8ab0-1f16983eda75@141.101.123.21:443?type=ws&security=tls&path=%2F1778720d-0510-4f91-8ab0-1f16983eda75-vless&host&sni=e28f2175.meuk.pages.dev&alpn=#JSB-5
-vless://3c404879-1f59-4de8-9267-4b96d207a82e@141.101.123.21:443?type=ws&security=tls&path=%2F3c404879-1f59-4de8-9267-4b96d207a82e-vless&host&sni=da4f63c9.fytuv.pages.dev&alpn=#JSB-6
-vless://d1d9333f-4fb0-4b64-9b34-be1227e70b72@141.101.123.21:443?type=ws&security=tls&path=%2Fd1d9333f-4fb0-4b64-9b34-be1227e70b72-vless&host&sni=e2c0dcfb.kdou.pages.dev&alpn=#JSB-7
